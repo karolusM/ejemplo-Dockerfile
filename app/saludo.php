@@ -16,6 +16,7 @@
 			echo "$nombre: $valor<br>";
 		}			
 		?>
+		<h2>Se acabó...</h2>
 	</body>
 </html>
 
